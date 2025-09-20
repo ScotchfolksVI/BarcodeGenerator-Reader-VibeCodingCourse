@@ -1,3 +1,3 @@
 # BarcodeGenerator-Reader-VibeCodingCourse
 
-https://barcode-generator-re-xhnv.bolt.host - link
+https://barcode-generator-re-xhnv.bolt.host 
